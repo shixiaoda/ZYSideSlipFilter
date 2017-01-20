@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ZYSideSlipFilter"
-  s.version      = "0.4.0"
+  s.version      = "0.5.0"
   s.summary      = "side slip filter with your goods page, support custom action, custom region, custom all the things."
 
   # This description is used to generate tags and improve search results.
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/liuzhiyi1992/ZYSideSlipFilter.git", :tag => "0.4.0" }
+  s.source       = { :git => "https://github.com/liuzhiyi1992/ZYSideSlipFilter.git", :tag => "0.5.0" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
